@@ -1,0 +1,12 @@
+dao/InventoryDaoImpl.class
+models/Inventory.class
+main.class
+utils/HibernateSessionFactoryUtil.class
+models/Rents.class
+dao/ClientsDaoImp.class
+models/Clients.class
+services/SportRentService.class
+dao/RentsDao.class
+dao/RentsDaoImpl.class
+dao/ClientsDao.class
+dao/InventoryDao.class
